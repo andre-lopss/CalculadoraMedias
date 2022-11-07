@@ -1,0 +1,7 @@
+C:\Users\andre.lopes\source\repos\CalculadoraDeMedias\CalculadoraMedias\bin\Debug\DesafioLogicaCSharp.exe.config
+C:\Users\andre.lopes\source\repos\CalculadoraDeMedias\CalculadoraMedias\bin\Debug\DesafioLogicaCSharp.exe
+C:\Users\andre.lopes\source\repos\CalculadoraDeMedias\CalculadoraMedias\bin\Debug\DesafioLogicaCSharp.pdb
+C:\Users\andre.lopes\source\repos\CalculadoraDeMedias\CalculadoraMedias\obj\Debug\CalculadoraMedias.csprojAssemblyReference.cache
+C:\Users\andre.lopes\source\repos\CalculadoraDeMedias\CalculadoraMedias\obj\Debug\CalculadoraMedias.csproj.CoreCompileInputs.cache
+C:\Users\andre.lopes\source\repos\CalculadoraDeMedias\CalculadoraMedias\obj\Debug\DesafioLogicaCSharp.exe
+C:\Users\andre.lopes\source\repos\CalculadoraDeMedias\CalculadoraMedias\obj\Debug\DesafioLogicaCSharp.pdb

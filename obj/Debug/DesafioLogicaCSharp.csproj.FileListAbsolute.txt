@@ -1,0 +1,7 @@
+C:\Users\andre.lopes\source\repos\DesafioLogicaCSharp\DesafioLogicaCSharp\obj\Debug\DesafioLogicaCSharp.csprojAssemblyReference.cache
+C:\Users\andre.lopes\source\repos\DesafioLogicaCSharp\DesafioLogicaCSharp\obj\Debug\DesafioLogicaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\andre.lopes\source\repos\DesafioLogicaCSharp\DesafioLogicaCSharp\bin\Debug\DesafioLogicaCSharp.exe.config
+C:\Users\andre.lopes\source\repos\DesafioLogicaCSharp\DesafioLogicaCSharp\bin\Debug\DesafioLogicaCSharp.exe
+C:\Users\andre.lopes\source\repos\DesafioLogicaCSharp\DesafioLogicaCSharp\bin\Debug\DesafioLogicaCSharp.pdb
+C:\Users\andre.lopes\source\repos\DesafioLogicaCSharp\DesafioLogicaCSharp\obj\Debug\DesafioLogicaCSharp.exe
+C:\Users\andre.lopes\source\repos\DesafioLogicaCSharp\DesafioLogicaCSharp\obj\Debug\DesafioLogicaCSharp.pdb
