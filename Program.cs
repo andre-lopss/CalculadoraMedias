@@ -8,31 +8,37 @@ namespace CalculadoraMedias
 {
     class Program
     {
-        static void medias()
+        static void Main(string[] args)
+        {
+            Medias();
+        }
+
+        static void Medias()
         {
             Console.WriteLine("Digite a quantidade de notas a ser calculada:");
             int quantCalculada = Convert.ToInt32(Console.ReadLine());
 
-            float soma = 0;
+            double soma = 0;
 
             for (int i = 1; i <= quantCalculada; i++)
             {
                 Console.Write("Digite a " + i + "° nota: ");
-                int notas = Convert.ToInt32(Console.ReadLine());
-                if(notas > 10 || notas < 0)
+                double notas = Convert.ToDouble(Console.ReadLine());  
+                
+                if (notas > 10 || notas < 0)
                 {
                     Console.Clear();
                     Console.WriteLine("As notas devem receber um valor entre 0 e 10");
                     Console.WriteLine("============================================");
-                    medias();
+                    Medias();
                 }
                 else
                 {
                     soma += notas;
-                } 
+                }
             }
 
-            double media = Math.Round((soma / quantCalculada), 2);
+            double media = Math.Round(Convert.ToDouble(soma / quantCalculada), 2);
 
             Console.WriteLine(" ");
             Console.WriteLine("A média do aluno foi de " + media);
@@ -49,22 +55,17 @@ namespace CalculadoraMedias
             Console.WriteLine(" ");
             Console.WriteLine("Deseja calcular outra média?");
             Console.WriteLine("Digite 1 para sim");
-            int intOp = Convert.ToInt32(Console.ReadLine());
+            int menuOpcao = Convert.ToInt32(Console.ReadLine());
 
-            switch (intOp)
+            switch (menuOpcao)
             {
                 case 1:
                     Console.Clear();
-                    medias();
+                    Medias();
                     break;
                 default:
                     break;
             }
-        }
- 
-    static void Main(string[] args)
-        {
-            medias();     
         }
     }
 }
